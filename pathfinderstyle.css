@@ -15,9 +15,11 @@
 }
 #wrapper {
 	width: 80%;
-	background-color: #222222;
+	background-color: #999999;
 }
 table {
+	margin-left: auto;
+	margin-right: auto;
 	width: 80%;
 }
 th, td {
