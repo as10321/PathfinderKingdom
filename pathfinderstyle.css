@@ -9,13 +9,17 @@
 	margin-left: auto;
 	font-size: 32px;
 }
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
 #turn {
 	float: right;
 	margin-right: auto;
+}
+#wrapper {
+	width: 80%
+	background-color: #222222;
+}
+#attributes {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
