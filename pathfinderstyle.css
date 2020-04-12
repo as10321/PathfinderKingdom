@@ -1,13 +1,12 @@
 #consumption {
 	color: red;
 	margin-right: auto;
-}
-#turn {
-	float: right;
+	font-size: 22px;
 }
 #bp {
 	color: green;
 	margin-left: auto;
+	font-size: 22px;
 }
 ul {
   list-style-type: none;
