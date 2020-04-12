@@ -1,5 +1,6 @@
 #consumption {
 	color: red;
+	float: right;
 	margin-right: auto;
 	font-size: 32px;
 }
@@ -15,5 +16,6 @@ ul {
   overflow: hidden;
 }
 #turn {
+	float: right;
 	margin-right: auto;
 }
