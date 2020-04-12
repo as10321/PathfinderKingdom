@@ -14,23 +14,13 @@
 	margin-right: auto;
 }
 #wrapper {
-	width: 80%
+	width: 80%;
 	background-color: #222222;
 }
-#attributesLabel, #attributes {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	margin-left: 25%;
-	margin-right: 25%
+table {
+	width: 80%;
 }
-#attributesLabel li, #attributes li {
-	font-size: 30px;
-	float: left;
-	display: block;
-	text-align: center;
-	padding: 5%;
-	text-decoration: none;
-	
+th, td {
+	font-size: 20px;
+	padding: 15px;
 }
