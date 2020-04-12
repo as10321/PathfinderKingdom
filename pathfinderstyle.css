@@ -22,7 +22,8 @@
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	
+	margin-left: 25%;
+	margin-right: 25%
 }
 #attributes li {
 	font-size: 30px;
@@ -31,6 +32,5 @@
 	text-align: center;
 	padding: 16px;
 	text-decoration: none;
-	margin-left: 25%;
-	margin-right: 25%
+	
 }
