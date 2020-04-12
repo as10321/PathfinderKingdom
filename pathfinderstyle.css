@@ -17,6 +17,8 @@
 	display: block;
 	width: 80%;
 	background-color: #999999;
+	min-width: 1200px;
+	max-width: 1480px;
 }
 table {
 	margin-left: auto;
