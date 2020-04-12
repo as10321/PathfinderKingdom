@@ -23,3 +23,10 @@
   padding: 0;
   overflow: hidden;
 }
+#attributes li {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
