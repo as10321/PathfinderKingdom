@@ -1,16 +1,19 @@
 #consumption {
 	color: red;
 	margin-right: auto;
-	font-size: 22px;
+	font-size: 32px;
 }
 #bp {
 	color: green;
 	margin-left: auto;
-	font-size: 22px;
+	font-size: 32px;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
+}
+#turn {
+	margin-right: auto;
 }
